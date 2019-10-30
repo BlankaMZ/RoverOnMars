@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoverOnMars</string>
+    <string name="whatToDo">Enter data</string>
+    <string name="result">Result will be here</string>
+</resources>
